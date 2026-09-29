@@ -8,6 +8,9 @@ public class Addnum {
 		int b=10;
 		int c= a+b;
 		System.out.println(c);
+	
+		if(c%2==0)
+			System.out.println("Even");
 	}
 
 }
