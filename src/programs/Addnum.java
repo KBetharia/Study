@@ -11,6 +11,11 @@ public class Addnum {
 	
 		if(c%2==0)
 			System.out.println("Even");
+		
+		if(c%2 !=0)
+			System.out.println("odd");
+		
+		
 	}
 
 }
