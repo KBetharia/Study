@@ -15,8 +15,6 @@ public class Addnum {
 		if(c%2 !=0)
 			System.out.println("odd");
 		
-		else System.out.println("Bhaltach number");
-		
 		
 	}
 
